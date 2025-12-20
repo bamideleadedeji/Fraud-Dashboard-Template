@@ -1,2 +1,20 @@
-# Fraud-Dashboard-Template
-Real-time Fraud Analytics Dashboard with ML-powered detection. Interactive visualization of transaction patterns, risk scoring, and fraud trends. Built with Python, Dash, Plotly, and Bootstrap. Deployable to cloud platforms.
+# Fraud Analytics Dashboard
+
+Real-time fraud detection dashboard with ML-powered transaction monitoring.
+
+## Live Demo
+Deployed on Render: `https://fraud-dashboard.onrender.com`
+
+## Features
+- Real-time fraud detection
+- Interactive visualizations
+- Risk scoring
+- Cloud deployment ready
+
+## Installation
+\`\`\`bash
+pip install -r requirements.txt
+python app.py
+\`\`\`
+
+Open http://localhost:8050
