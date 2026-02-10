@@ -2,8 +2,9 @@
 
 Real-time fraud detection dashboard with ML-powered transaction monitoring.
 
-## Live Demo
+Live Demo
 Deployed on ngrok: `https://unexplosive-tu-preenjoyable.ngrok-free.dev/`
+[Fraud Dashboard Live Demo](https://unexplosive-tu-preenjoyable.ngrok-free.dev/)
 
 ## Features
 - Real-time fraud detection
@@ -19,3 +20,4 @@ python app.py
 
 
 Open http://localhost:8050
+
